@@ -1,4 +1,4 @@
-# ETl + ChatGPT 
+# ETL + ChatGPT 
 
 
 >"Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda!"
